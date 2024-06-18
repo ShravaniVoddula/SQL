@@ -1,6 +1,4 @@
 
-
-
 /*Query 1.)  
  Retrieve the average ratings of the movies by genre for each year from 2012 to 
 2016 for each genre, Drama, and Thriller.  */ 
