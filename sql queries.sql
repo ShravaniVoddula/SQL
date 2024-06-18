@@ -1,5 +1,4 @@
-/*NAME: SHRAVANI REDDY VODDULA
-  UTA ID: 1001956618*/
+
 
 
 /*Query 1.)  
