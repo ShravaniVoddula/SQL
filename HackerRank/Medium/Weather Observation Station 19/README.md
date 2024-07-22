@@ -8,7 +8,9 @@ Query the Euclidean Distance between points p1 and p2 and format your answer to 
 
  [Question Link]([https://www.hackerrank.com/challenges/weather-observation-station-18/problem](https://www.hackerrank.com/challenges/weather-observation-station-19/problem))
 
-## Answer in SQL Server
+## Answer
+**Language:** MySql
+
 [Answer Link](https://github.com/ShravaniVoddula/SQL/blob/main/HackerRank/Medium/Weather%20Observation%20Station%2019/Weather%20Observation%20Station%2019.sql)
 
 ## Output
