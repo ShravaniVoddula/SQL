@@ -1,7 +1,6 @@
 # The Pads
 
 ## Question
-
 Generate the following two result sets:
 
 Query an alphabetically ordered list of all names in OCCUPATIONS, immediately followed by the first letter of each profession as a parenthetical (i.e.: enclosed in parentheses). For example: AnActorName(A), ADoctorName(D), AProfessorName(P), and ASingerName(S).
@@ -13,6 +12,7 @@ where [occupation_count] is the number of occurrences of an occupation in OCCUPA
 Note: There will be at least two entries in the table for each type of occupation. [Question Link](https://www.hackerrank.com/challenges/the-pads/problem)
 
 ## Answer in SQL Server
+[Answer Link](https://github.com/ShravaniVoddula/SQL/blob/main/HackerRank/Medium/The%20Pads/thepads.sql)
 
 ## Output
 Aamina(D) 
