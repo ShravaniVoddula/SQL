@@ -7,7 +7,6 @@ This repository contains answers to the attempted Hackerrank challenges.
 - [The PADS]: 
 - [Binary Tree Nodes]: 
 - [New Companies]: 
-- [Employee Salaries]
 - [Weather Observation Station 18]
 - [Weather Observation Station 19]
 - [Weather Observation Station 20]
