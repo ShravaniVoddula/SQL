@@ -1,4 +1,5 @@
-# 
+# Weather Observation Station 18
+
 
 ## Question
 Consider p1 and p2 to be two points on a 2D plane.
